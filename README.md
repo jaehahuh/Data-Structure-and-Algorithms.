@@ -2,8 +2,7 @@
 
 Program language : Python
 
-These are homework and projects that I did in NYU Tandon data sturcture and algorithms class. These are homework and projects that I did in NYU Tandon data sturcture and algorithms class.
-
+These are homework and projects that I did in NYU Tandon data sturcture and algorithms class. What I learned in class is as follows.
 - Array Queue and Stack
 - Merge Sort
 - Linked Lists
